@@ -1,4 +1,9 @@
 /**
+ * @file        SVG-based native JS circular slider.
+ * @author      Ziga Vucko 2015-2018
+ */
+
+/**
  * Class for drawing responsive circular sliders on the SVG container.
  * @param options   an object containing circular slider properties
  */
