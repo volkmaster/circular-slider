@@ -32,15 +32,6 @@ new CircularSlider({
 
 new CircularSlider({
     'container': container,
-    'color': '#c0392b',
-    'min': 500,
-    'max': 1000,
-    'step': 5,
-    'radius': 40
-});
-
-new CircularSlider({
-    'container': container,
     'color': '#d35400',
     'min': 5000,
     'max': 10000,
